@@ -15,30 +15,6 @@ class SpanningTree {
 
 }
 
-class Edge {
-    private int src;
-    private int des;
-    private int cost;
-
-    public Edge(int s, int d, int c) {
-        this.src = s;
-        this.des = d;
-        this.cost = s;
-    }
-
-    public int getSrc() {
-        return src;
-    }
-
-    public int getDes() {
-        return des;
-    }
-
-    public int getCost() {
-        return cost;
-    }
-}
-
 class MST {
     private HashMap<Integer, Node> nodes;
     private int count;
@@ -77,11 +53,11 @@ class MST {
 //        return false;
 //    }
 
-    public void addEdge(Edge e) {
+    public void addEdge() {
 
     }
 
-    public void removeEdge(Edge e) {
+    public void removeEdge() {
 
     }
 }
