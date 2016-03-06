@@ -1,0 +1,10 @@
+Prime numbers fermats method has to be completed
+Graphs not complete
+Simple data structures not complete - there may be more. just have a look
+
+
+CopyRights Anuradha Wickramarachchi
+https://www.github.com/anuradhawick
+Twitter @anuradhawick
+FaceBook fb.com/anuradha.sanjeewa
+In https://www.linkedin.com/in/anuradhawick

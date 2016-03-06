@@ -1,4 +1,4 @@
-package SimpleDataStructures.LinkedList;
+package SimpleDataStructures.LinkedListImp;
 
 /**
  * Created by Anuradha Sanjeewa on 30/12/2015.
